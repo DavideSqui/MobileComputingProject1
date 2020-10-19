@@ -1,0 +1,4964 @@
+fileFormatVersion: 2
+guid: f7eae644d86ed7546bdd887b43a2abff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7970719310623887505
+    second: Red(Lucifero)_0
+  - first:
+      213: -1126610569174537193
+    second: Red(Lucifero)_1
+  - first:
+      213: -2107486046501514364
+    second: Red(Lucifero)_2
+  - first:
+      213: 5125164888214934859
+    second: Red(Lucifero)_3
+  - first:
+      213: -4282378954171554457
+    second: Red(Lucifero)_4
+  - first:
+      213: -4443668044336496321
+    second: Red(Lucifero)_5
+  - first:
+      213: 1126809029266007946
+    second: Red(Lucifero)_6
+  - first:
+      213: 4162092821413055324
+    second: Red(Lucifero)_7
+  - first:
+      213: -8436106758641888951
+    second: Red(Lucifero)_8
+  - first:
+      213: 3926098834926247948
+    second: Red(Lucifero)_9
+  - first:
+      213: 2676808616290823080
+    second: Red(Lucifero)_10
+  - first:
+      213: 4652665702616727750
+    second: Red(Lucifero)_11
+  - first:
+      213: 7202243723018746894
+    second: Red(Lucifero)_12
+  - first:
+      213: 1586443882738144974
+    second: Red(Lucifero)_13
+  - first:
+      213: 3109835035590743371
+    second: Red(Lucifero)_14
+  - first:
+      213: 19456755287171683
+    second: Red(Lucifero)_15
+  - first:
+      213: -3611017883372405563
+    second: Red(Lucifero)_16
+  - first:
+      213: 5339065091198205233
+    second: Red(Lucifero)_17
+  - first:
+      213: -5463269361245867624
+    second: Red(Lucifero)_18
+  - first:
+      213: -229925767043303346
+    second: Red(Lucifero)_19
+  - first:
+      213: 1494285167736743937
+    second: Red(Lucifero)_20
+  - first:
+      213: -3492704738932033732
+    second: Red(Lucifero)_21
+  - first:
+      213: -3186428111707403112
+    second: Red(Lucifero)_22
+  - first:
+      213: -7108106213668468916
+    second: Red(Lucifero)_23
+  - first:
+      213: -3633781778730440855
+    second: Red(Lucifero)_24
+  - first:
+      213: 3354049353403662727
+    second: Red(Lucifero)_25
+  - first:
+      213: -7381818939685817298
+    second: Red(Lucifero)_26
+  - first:
+      213: -8149717504359855276
+    second: Red(Lucifero)_27
+  - first:
+      213: -6392467165260438673
+    second: Red(Lucifero)_28
+  - first:
+      213: -6632024837602981573
+    second: Red(Lucifero)_29
+  - first:
+      213: -2352385095233292649
+    second: Red(Lucifero)_30
+  - first:
+      213: 4464606209340451773
+    second: Red(Lucifero)_31
+  - first:
+      213: -8330793163093124831
+    second: Red(Lucifero)_32
+  - first:
+      213: -5068520981744453814
+    second: Red(Lucifero)_33
+  - first:
+      213: 5831312962366970412
+    second: Red(Lucifero)_34
+  - first:
+      213: -5482214988660053933
+    second: Red(Lucifero)_35
+  - first:
+      213: -5456529596930889075
+    second: Red(Lucifero)_36
+  - first:
+      213: -5036292081700583757
+    second: Red(Lucifero)_37
+  - first:
+      213: -2315839996320643456
+    second: Red(Lucifero)_38
+  - first:
+      213: -181253119888581157
+    second: Red(Lucifero)_39
+  - first:
+      213: 3585937568969579144
+    second: Red(Lucifero)_40
+  - first:
+      213: 4070905050880663454
+    second: Red(Lucifero)_41
+  - first:
+      213: -7136104469115005837
+    second: Red(Lucifero)_42
+  - first:
+      213: 7709603890677739294
+    second: Red(Lucifero)_43
+  - first:
+      213: 2541750988348887671
+    second: Red(Lucifero)_44
+  - first:
+      213: -815224957470516517
+    second: Red(Lucifero)_45
+  - first:
+      213: 1614163624516004240
+    second: Red(Lucifero)_46
+  - first:
+      213: -4088538871992709742
+    second: Red(Lucifero)_47
+  - first:
+      213: -4957551992786096778
+    second: Red(Lucifero)_48
+  - first:
+      213: 386335036872732499
+    second: Red(Lucifero)_49
+  - first:
+      213: -2982789274280468713
+    second: Red(Lucifero)_50
+  - first:
+      213: 5197098811983802765
+    second: Red(Lucifero)_51
+  - first:
+      213: -586534781764230085
+    second: Red(Lucifero)_52
+  - first:
+      213: 6729177241841834125
+    second: Red(Lucifero)_53
+  - first:
+      213: -7123278258777467892
+    second: Red(Lucifero)_54
+  - first:
+      213: -5441749142635922291
+    second: Red(Lucifero)_55
+  - first:
+      213: 2164933756026281233
+    second: Red(Lucifero)_56
+  - first:
+      213: 5107818429469332117
+    second: Red(Lucifero)_57
+  - first:
+      213: -6526299747413871599
+    second: Red(Lucifero)_58
+  - first:
+      213: 6963909596590732829
+    second: Red(Lucifero)_59
+  - first:
+      213: -6598093957999669721
+    second: Red(Lucifero)_60
+  - first:
+      213: -2698744233243981937
+    second: Red(Lucifero)_61
+  - first:
+      213: 6718860480700323809
+    second: Red(Lucifero)_62
+  - first:
+      213: 1409020920573763834
+    second: Red(Lucifero)_63
+  - first:
+      213: 4627166853008765317
+    second: Red(Lucifero)_64
+  - first:
+      213: -166508320470373807
+    second: Red(Lucifero)_65
+  - first:
+      213: -4442753462853774927
+    second: Red(Lucifero)_66
+  - first:
+      213: 6830007451876540724
+    second: Red(Lucifero)_67
+  - first:
+      213: -1716302070237727845
+    second: Red(Lucifero)_68
+  - first:
+      213: -2219764060474482832
+    second: Red(Lucifero)_69
+  - first:
+      213: -229431017343238133
+    second: Red(Lucifero)_70
+  - first:
+      213: -5185645055628813527
+    second: Red(Lucifero)_71
+  - first:
+      213: -46343690579334900
+    second: Red(Lucifero)_72
+  - first:
+      213: 6875107607304533778
+    second: Red(Lucifero)_73
+  - first:
+      213: 4684590546981065552
+    second: Red(Lucifero)_74
+  - first:
+      213: -5318554535721325423
+    second: Red(Lucifero)_75
+  - first:
+      213: -5384240382874268410
+    second: Red(Lucifero)_76
+  - first:
+      213: 6307137444004703411
+    second: Red(Lucifero)_77
+  - first:
+      213: 1506590136328578975
+    second: Red(Lucifero)_78
+  - first:
+      213: -2057720633747009620
+    second: Red(Lucifero)_79
+  - first:
+      213: 1530088517459548784
+    second: Red(Lucifero)_80
+  - first:
+      213: -5243901944587922765
+    second: Red(Lucifero)_81
+  - first:
+      213: -3761950555294546516
+    second: Red(Lucifero)_82
+  - first:
+      213: 3024341405245598165
+    second: Red(Lucifero)_83
+  - first:
+      213: -7074584001843462021
+    second: Red(Lucifero)_84
+  - first:
+      213: 1553768139330125732
+    second: Red(Lucifero)_85
+  - first:
+      213: -3492958053320483396
+    second: Red(Lucifero)_86
+  - first:
+      213: 2916494372959480560
+    second: Red(Lucifero)_87
+  - first:
+      213: -5695910026478352504
+    second: Red(Lucifero)_88
+  - first:
+      213: -5302906847253799184
+    second: Red(Lucifero)_89
+  - first:
+      213: -8036836093140373200
+    second: Red(Lucifero)_90
+  - first:
+      213: -5595340118725244129
+    second: Red(Lucifero)_91
+  - first:
+      213: 5003819252940360193
+    second: Red(Lucifero)_92
+  - first:
+      213: -6842397189791523031
+    second: Red(Lucifero)_93
+  - first:
+      213: -239898660294335950
+    second: Red(Lucifero)_94
+  - first:
+      213: 5267061997960872042
+    second: Red(Lucifero)_95
+  - first:
+      213: -4899227529857314508
+    second: Red(Lucifero)_96
+  - first:
+      213: -6298477765526032654
+    second: Red(Lucifero)_97
+  - first:
+      213: 1082278902637696933
+    second: Red(Lucifero)_98
+  - first:
+      213: 2857596154488599783
+    second: Red(Lucifero)_99
+  - first:
+      213: 5956053886843709137
+    second: Red(Lucifero)_100
+  - first:
+      213: 3572785990932422948
+    second: Red(Lucifero)_101
+  - first:
+      213: 3002637109616980968
+    second: Red(Lucifero)_102
+  - first:
+      213: 6170234461650114357
+    second: Red(Lucifero)_103
+  - first:
+      213: -2429198881444254858
+    second: Red(Lucifero)_104
+  - first:
+      213: -1707068305778338004
+    second: Red(Lucifero)_105
+  - first:
+      213: 8521970525891580802
+    second: Red(Lucifero)_106
+  - first:
+      213: -525895727030122407
+    second: Red(Lucifero)_107
+  - first:
+      213: 7899233723474653263
+    second: Red(Lucifero)_108
+  - first:
+      213: 2167464248201868013
+    second: Red(Lucifero)_109
+  - first:
+      213: 6766569073248204014
+    second: Red(Lucifero)_110
+  - first:
+      213: 1853935758223826387
+    second: Red(Lucifero)_111
+  - first:
+      213: 6424876055401134375
+    second: Red(Lucifero)_112
+  - first:
+      213: 6570894845194496487
+    second: Red(Lucifero)_113
+  - first:
+      213: -3121641620033676069
+    second: Red(Lucifero)_114
+  - first:
+      213: -4790772089016321623
+    second: Red(Lucifero)_115
+  - first:
+      213: -5720430838903412159
+    second: Red(Lucifero)_116
+  - first:
+      213: -3596633594942362065
+    second: Red(Lucifero)_117
+  - first:
+      213: 7985111691453456919
+    second: Red(Lucifero)_118
+  - first:
+      213: 7885382635849617128
+    second: Red(Lucifero)_119
+  - first:
+      213: 4323153016265136442
+    second: Red(Lucifero)_120
+  - first:
+      213: 3848132957125768475
+    second: Red(Lucifero)_121
+  - first:
+      213: 6687947611645790573
+    second: Red(Lucifero)_122
+  - first:
+      213: -2560761481634189978
+    second: Red(Lucifero)_123
+  - first:
+      213: -4691614797207191248
+    second: Red(Lucifero)_124
+  - first:
+      213: 9103695674477860682
+    second: Red(Lucifero)_125
+  - first:
+      213: 5696855899031937151
+    second: Red(Lucifero)_126
+  - first:
+      213: 2553651610543112588
+    second: Red(Lucifero)_127
+  - first:
+      213: -6794485278306881273
+    second: Red(Lucifero)_128
+  - first:
+      213: -982649264428447416
+    second: Red(Lucifero)_129
+  - first:
+      213: -6641103018481006219
+    second: Red(Lucifero)_130
+  - first:
+      213: -324583596399786967
+    second: Red(Lucifero)_131
+  - first:
+      213: -5110445882264249944
+    second: Red(Lucifero)_132
+  - first:
+      213: -2062143392288741549
+    second: Red(Lucifero)_133
+  - first:
+      213: 8229377184827071792
+    second: Red(Lucifero)_134
+  - first:
+      213: -3285015375834036801
+    second: Red(Lucifero)_135
+  - first:
+      213: 3020152159718311956
+    second: Red(Lucifero)_136
+  - first:
+      213: -1211107490931448234
+    second: Red(Lucifero)_137
+  - first:
+      213: -1668449737437742201
+    second: Red(Lucifero)_138
+  - first:
+      213: -8838133168511963234
+    second: Red(Lucifero)_139
+  - first:
+      213: -4730036032048864212
+    second: Red(Lucifero)_140
+  - first:
+      213: -4983037320168915759
+    second: Red(Lucifero)_141
+  - first:
+      213: 2665522900101714730
+    second: Red(Lucifero)_142
+  - first:
+      213: -1328651283033428767
+    second: Red(Lucifero)_143
+  - first:
+      213: 5102163102759793653
+    second: Red(Lucifero)_144
+  - first:
+      213: 7426427847814044376
+    second: Red(Lucifero)_145
+  - first:
+      213: 1300267345035524655
+    second: Red(Lucifero)_146
+  - first:
+      213: 6556618433747618833
+    second: Red(Lucifero)_147
+  - first:
+      213: -4438180949978109741
+    second: Red(Lucifero)_148
+  - first:
+      213: 7654244452253296564
+    second: Red(Lucifero)_149
+  - first:
+      213: 6948552681200070835
+    second: Red(Lucifero)_150
+  - first:
+      213: 1007116613470202502
+    second: Red(Lucifero)_151
+  - first:
+      213: -6294109286851732722
+    second: Red(Lucifero)_152
+  - first:
+      213: -7805637377166006948
+    second: Red(Lucifero)_153
+  - first:
+      213: 122029939083394728
+    second: Red(Lucifero)_154
+  - first:
+      213: -8335285236760759952
+    second: Red(Lucifero)_155
+  - first:
+      213: 8024836068715989601
+    second: Red(Lucifero)_156
+  - first:
+      213: -2250823863373408015
+    second: Red(Lucifero)_157
+  - first:
+      213: 1441361268323107017
+    second: Red(Lucifero)_158
+  - first:
+      213: 8093981220818593269
+    second: Red(Lucifero)_159
+  - first:
+      213: 2250798446983934792
+    second: Red(Lucifero)_160
+  - first:
+      213: -7406917535155773637
+    second: Red(Lucifero)_161
+  - first:
+      213: 1647276229907083951
+    second: Red(Lucifero)_162
+  - first:
+      213: 842935694750264594
+    second: Red(Lucifero)_163
+  - first:
+      213: -4860061275214720935
+    second: Red(Lucifero)_164
+  - first:
+      213: 716650433325449743
+    second: Red(Lucifero)_165
+  - first:
+      213: 4876028415470035248
+    second: Red(Lucifero)_166
+  - first:
+      213: -450129452842763010
+    second: Red(Lucifero)_167
+  - first:
+      213: 5708856156436917281
+    second: Red(Lucifero)_168
+  - first:
+      213: -1822806934666924951
+    second: Red(Lucifero)_169
+  - first:
+      213: 4308817384762818613
+    second: Red(Lucifero)_170
+  - first:
+      213: -1263278189599180371
+    second: Red(Lucifero)_171
+  - first:
+      213: -1288216972166635652
+    second: Red(Lucifero)_172
+  - first:
+      213: 3347067491573176895
+    second: Red(Lucifero)_173
+  - first:
+      213: 2372967843725860775
+    second: Red(Lucifero)_174
+  - first:
+      213: 2664677141266669438
+    second: Red(Lucifero)_175
+  - first:
+      213: 2208726108684982820
+    second: Red(Lucifero)_176
+  - first:
+      213: -8052070094022190416
+    second: Red(Lucifero)_177
+  - first:
+      213: 572194497451312795
+    second: Red(Lucifero)_178
+  - first:
+      213: 9168668244349689083
+    second: Red(Lucifero)_179
+  - first:
+      213: -1915603524766827903
+    second: Red(Lucifero)_180
+  - first:
+      213: -8564445831169053111
+    second: Red(Lucifero)_181
+  - first:
+      213: -5785631534359922986
+    second: Red(Lucifero)_182
+  - first:
+      213: -3386783126702360271
+    second: Red(Lucifero)_183
+  - first:
+      213: 1149396566811753201
+    second: Red(Lucifero)_184
+  - first:
+      213: 965772604433805144
+    second: Red(Lucifero)_185
+  - first:
+      213: -7919599735710355754
+    second: Red(Lucifero)_186
+  - first:
+      213: 4550944114569497281
+    second: Red(Lucifero)_187
+  - first:
+      213: -6131367942703887285
+    second: Red(Lucifero)_188
+  - first:
+      213: 5339652173887126534
+    second: Red(Lucifero)_189
+  - first:
+      213: -2803196600195159879
+    second: Red(Lucifero)_190
+  - first:
+      213: 2712817144184580055
+    second: Red(Lucifero)_191
+  - first:
+      213: 5319538642447697104
+    second: Red(Lucifero)_192
+  - first:
+      213: -73649915324256348
+    second: Red(Lucifero)_193
+  - first:
+      213: 2313673013214405717
+    second: Red(Lucifero)_194
+  - first:
+      213: 7104526961456511688
+    second: Red(Lucifero)_195
+  - first:
+      213: 6568963857900103456
+    second: Red(Lucifero)_196
+  - first:
+      213: -243195814385557648
+    second: Red(Lucifero)_197
+  - first:
+      213: 1319649196711356678
+    second: Red(Lucifero)_198
+  - first:
+      213: 9195297148284314603
+    second: Red(Lucifero)_199
+  - first:
+      213: -1779009085260640769
+    second: Red(Lucifero)_200
+  - first:
+      213: 778651639564794390
+    second: Red(Lucifero)_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red(Lucifero)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190551a7bfead9e60800000000000000
+      internalID: 7970719310623887505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca62808a97d50f0800000000000000
+      internalID: -1126610569174537193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835f2d4b94b0c2e0800000000000000
+      internalID: -2107486046501514364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b451b51cf4e302740800000000000000
+      internalID: 5125164888214934859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765eefab70fe194c0800000000000000
+      internalID: -4282378954171554457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31819d057be452c0800000000000000
+      internalID: -4443668044336496321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a876a1f87da33af00800000000000000
+      internalID: 1126809029266007946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1984
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b478e8e59b2c930800000000000000
+      internalID: 4162092821413055324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1984
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d0e3799decea80800000000000000
+      internalID: -8436106758641888951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1984
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00aad8c61e4c7630800000000000000
+      internalID: 3926098834926247948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab28b1114fe52520800000000000000
+      internalID: 2676808616290823080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00d1f3ec6919040800000000000000
+      internalID: 4652665702616727750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb158c18283f360800000000000000
+      internalID: 7202243723018746894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d2b65e4e240610800000000000000
+      internalID: 1586443882738144974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1919
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45537efc7a582b20800000000000000
+      internalID: 3109835035590743371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1919
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362af5bd0df154000800000000000000
+      internalID: 19456755287171683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1919
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3108fd5613edc0800000000000000
+      internalID: -3611017883372405563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1919
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dbe81b96b281a40800000000000000
+      internalID: 5339065091198205233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1919
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8913aaa26719e24b0800000000000000
+      internalID: -5463269361245867624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1919
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48bcaaabb32fccf0800000000000000
+      internalID: -229925767043303346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1919
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10865186174ccb410800000000000000
+      internalID: 1494285167736743937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1856
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f1aa8b8b678fc0800000000000000
+      internalID: -3492704738932033732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1856
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8c5bc38887c3d0800000000000000
+      internalID: -3186428111707403112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1856
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474b8c1f0fea5d90800000000000000
+      internalID: -7108106213668468916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1856
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672c7f89b6329dc0800000000000000
+      internalID: -3633781778730440855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1856
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78101cccd1afb8e20800000000000000
+      internalID: 3354049353403662727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1856
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b6cfe8c28e8990800000000000000
+      internalID: -7381818939685817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1856
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b09dcdb1366ee80800000000000000
+      internalID: -8149717504359855276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1793
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ad406bf46947a0800000000000000
+      internalID: -6392467165260438673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1791
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394b155c8056f3a0800000000000000
+      internalID: -6632024837602981573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1791
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79632b72836aa5fd0800000000000000
+      internalID: -2352385095233292649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1791
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbadb161b775fd30800000000000000
+      internalID: 4464606209340451773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d490b1c3136c80800000000000000
+      internalID: -8330793163093124831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f182750ff8a9b0800000000000000
+      internalID: -5068520981744453814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a93006e3cfce050800000000000000
+      internalID: 5831312962366970412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1791
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358689a83824be3b0800000000000000
+      internalID: -5482214988660053933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1728
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6784dd338644b0800000000000000
+      internalID: -5456529596930889075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1728
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cf1df80f7b1ab0800000000000000
+      internalID: -5036292081700583757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1728
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0868aae0bcb7cdfd0800000000000000
+      internalID: -2315839996320643456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1727
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1c9e6f3f0c7df0800000000000000
+      internalID: -181253119888581157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1727
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad829483fc3c130800000000000000
+      internalID: 3585937568969579144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1727
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd5104392ce7830800000000000000
+      internalID: 4070905050880663454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1727
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37492564bc677fc90800000000000000
+      internalID: -7136104469115005837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1727
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe0de24e30efa60800000000000000
+      internalID: 7709603890677739294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1663
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729800ae0d164320800000000000000
+      internalID: 2541750988348887671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1664
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdadfed683dbfa4f0800000000000000
+      internalID: -815224957470516517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1664
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09922a8a349a66610800000000000000
+      internalID: 1614163624516004240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1664
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8f74de879247c0800000000000000
+      internalID: -4088538871992709742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1664
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d64729abc333bb0800000000000000
+      internalID: -4957551992786096778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1664
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f261d4ba98c5500800000000000000
+      internalID: 386335036872732499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1664
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fdaa265f00b96d0800000000000000
+      internalID: -2982789274280468713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1664
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8136e685ddcf1840800000000000000
+      internalID: 5197098811983802765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1600
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34288c39b53cd7f0800000000000000
+      internalID: -586534781764230085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1600
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8810aa7c07d26d50800000000000000
+      internalID: 6729177241841834125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1600
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c045e451a28052d90800000000000000
+      internalID: -7123278258777467892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1599
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c36648cf50b74b0800000000000000
+      internalID: -5441749142635922291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1599
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd232e7c36b0e10800000000000000
+      internalID: 2164933756026281233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1599
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59296b99ccd92e640800000000000000
+      internalID: 5107818429469332117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1599
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114bca125fced65a0800000000000000
+      internalID: -6526299747413871599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1599
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1679b8b1e6c4a060800000000000000
+      internalID: 6963909596590732829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1538
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e47ced08cde64a0800000000000000
+      internalID: -6598093957999669721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1538
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cbdd1b622c8ad0800000000000000
+      internalID: -2698744233243981937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1537
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e79d8752003e3d50800000000000000
+      internalID: 6718860480700323809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1536
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a4ebdf09dd8310800000000000000
+      internalID: 1409020920573763834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1537
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581bc0eacbff63040800000000000000
+      internalID: 4627166853008765317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1538
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a6732909170bdf0800000000000000
+      internalID: -166508320470373807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1537
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d6f5a34b2852c0800000000000000
+      internalID: -4442753462853774927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_67
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1536
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314f5e279f09ce50800000000000000
+      internalID: 6830007451876540724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_68
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1537
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9376384c587e28e0800000000000000
+      internalID: -1716302070237727845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1472
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5d3a0950d131e0800000000000000
+      internalID: -2219764060474482832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1473
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ccce84b5e0dcf0800000000000000
+      internalID: -229431017343238133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1474
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bdbffeb43e808b0800000000000000
+      internalID: -5185645055628813527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1474
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092071b8aa5b5ff0800000000000000
+      internalID: -46343690579334900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1473
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f8f561f9496f50800000000000000
+      internalID: 6875107607304533778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1473
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05395fe4842030140800000000000000
+      internalID: 4684590546981065552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1473
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca9c324d2b036b0800000000000000
+      internalID: -5318554535721325423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1473
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d477116e55745b0800000000000000
+      internalID: -5384240382874268410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_77
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1473
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2773b614778750800000000000000
+      internalID: 6307137444004703411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1407
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e8f92fbb78e410800000000000000
+      internalID: 1506590136328578975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1407
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf84826cf18173e0800000000000000
+      internalID: -2057720633747009620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a941e5667fb3510800000000000000
+      internalID: 1530088517459548784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1407
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25bdbf6fae937b0800000000000000
+      internalID: -5243901944587922765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1407
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c511d6eddacbc0800000000000000
+      internalID: -3761950555294546516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_83
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1407
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96b230c7e98f920800000000000000
+      internalID: 3024341405245598165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708574455702dd90800000000000000
+      internalID: -7074584001843462021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1408
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7718f3e7109510800000000000000
+      internalID: 1553768139330125732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_86
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1407
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1e703825868fc0800000000000000
+      internalID: -3492958053320483396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1344
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faeca11e28797820800000000000000
+      internalID: 2916494372959480560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1345
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870c27520014f0b0800000000000000
+      internalID: -5695910026478352504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_89
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1346
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5374815a4866b0800000000000000
+      internalID: -5302906847253799184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1346
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031745e772c677090800000000000000
+      internalID: -8036836093140373200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_91
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1345
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc3e1becb5952b0800000000000000
+      internalID: -5595340118725244129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1345
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a45c36913217540800000000000000
+      internalID: 5003819252940360193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1345
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f585a220cea01a0800000000000000
+      internalID: -6842397189791523031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_94
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1345
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23260138075bbacf0800000000000000
+      internalID: -239898660294335950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_95
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1345
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ca662bfc581940800000000000000
+      internalID: 5267061997960872042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1281
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4315a01d482720cb0800000000000000
+      internalID: -4899227529857314508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1280
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feef10d7df4798a0800000000000000
+      internalID: -6298477765526032654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1280
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79e938de6050f00800000000000000
+      internalID: 1082278902637696933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_99
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1280
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b0d3ff8838a720800000000000000
+      internalID: 2857596154488599783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1280
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6676c147728a250800000000000000
+      internalID: 5956053886843709137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_101
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1280
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e408ede5159130800000000000000
+      internalID: 3572785990932422948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33024ea828ba920800000000000000
+      internalID: 3002637109616980968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1215
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53757833d8311a550800000000000000
+      internalID: 6170234461650114357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1215
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2dbedc70c94ed0800000000000000
+      internalID: -2429198881444254858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1215
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2711ca9b664f48e0800000000000000
+      internalID: -1707068305778338004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1215
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283dd1eba0f144670800000000000000
+      internalID: 8521970525891580802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1215
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95849716f94a3b8f0800000000000000
+      internalID: -525895727030122407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1150
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403e753837bf9d60800000000000000
+      internalID: 7899233723474653263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1150
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de27e610041641e10800000000000000
+      internalID: 2167464248201868013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_110
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1150
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee47a17a8bea7ed50800000000000000
+      internalID: 6766569073248204014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1151
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5351efb08ab910800000000000000
+      internalID: 1853935758223826387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_112
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1151
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729f8106bbeb92950800000000000000
+      internalID: 6424876055401134375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_113
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1151
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e963403c02803b50800000000000000
+      internalID: 6570894845194496487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1087
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc51d95c73bda4d0800000000000000
+      internalID: -3121641620033676069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1086
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9735aea22c38db0800000000000000
+      internalID: -4790772089016321623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_116
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1086
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae8fcc572fc90b0800000000000000
+      internalID: -5720430838903412159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1086
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e693a1dc0361ec0800000000000000
+      internalID: -3596633594942362065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_118
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1086
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712e6e4c6c0d0de60800000000000000
+      internalID: 7985111691453456919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_119
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1086
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee89df8ab18e6d60800000000000000
+      internalID: 7885382635849617128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39542463cceefb30800000000000000
+      internalID: 4323153016265136442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1574f54980576530800000000000000
+      internalID: 3848132957125768475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c1942bec50dc50800000000000000
+      internalID: 6687947611645790573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de0bcfff8567cd0800000000000000
+      internalID: -2560761481634189978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031cf7df23904eeb0800000000000000
+      internalID: -4691614797207191248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4753848bf2d65e70800000000000000
+      internalID: 9103695674477860682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702366c14c4f0f40800000000000000
+      internalID: 5696855899031937151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c6862c94607320800000000000000
+      internalID: 2553651610543112588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b5ea53a325b1a0800000000000000
+      internalID: -6794485278306881273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84981f643bdec52f0800000000000000
+      internalID: -982649264428447416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5794aa2adff06d3a0800000000000000
+      internalID: -6641103018481006219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240ca450f8de7bf0800000000000000
+      internalID: -324583596399786967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a918cfdb8c0419b0800000000000000
+      internalID: -5110445882264249944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 960
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e5baa28bc163e0800000000000000
+      internalID: -2062143392288741549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 960
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d5250d2fe943270800000000000000
+      internalID: 8229377184827071792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 960
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb547b1abe74962d0800000000000000
+      internalID: -3285015375834036801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 959
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41883a7436cb9e920800000000000000
+      internalID: 3020152159718311956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 959
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656673a5728413fe0800000000000000
+      internalID: -1211107490931448234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 959
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bfd6abdc978d8e0800000000000000
+      internalID: -1668449737437742201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 959
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f2f3da5b4a85580800000000000000
+      internalID: -8838133168511963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 959
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ede62a498b5eb0800000000000000
+      internalID: -4730036032048864212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 959
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc31d465f1b8dab0800000000000000
+      internalID: -4983037320168915759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235b3184f6ddf420800000000000000
+      internalID: 2665522900101714730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 959
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecec6492beaf8de0800000000000000
+      internalID: -1328651283033428767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 959
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33a1e3f468ec640800000000000000
+      internalID: 5102163102759793653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 959
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da560bd7c8ff0760800000000000000
+      internalID: 7426427847814044376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 895
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af1edd24a7b0210800000000000000
+      internalID: 1300267345035524655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 896
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0e4f1ab9cdfa50800000000000000
+      internalID: 6556618433747618833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d826a3c0f96862c0800000000000000
+      internalID: -4438180949978109741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ef8086c6593a60800000000000000
+      internalID: 7654244452253296564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0b40a39d73e6060800000000000000
+      internalID: 6948552681200070835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2949593ff9fd00800000000000000
+      internalID: 1007116613470202502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 895
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b17b383f4d6a8a0800000000000000
+      internalID: -6294109286851732722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 895
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552288592ecca390800000000000000
+      internalID: -7805637377166006948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 895
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3703459981b100800000000000000
+      internalID: 122029939083394728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07131594d3e135c80800000000000000
+      internalID: -8335285236760759952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0f8813e1fd5f60800000000000000
+      internalID: 8024836068715989601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d7a32f9773c0e0800000000000000
+      internalID: -2250823863373408015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 895
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c767df6eb00410800000000000000
+      internalID: 1441361268323107017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 832
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5239d5909935070800000000000000
+      internalID: 8093981220818593269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 832
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437a7523417c3f10800000000000000
+      internalID: 2250798446983934792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_161
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 832
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9d6cceb7553990800000000000000
+      internalID: -7406917535155773637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_162
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 831
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27e82e00d4cd610800000000000000
+      internalID: 1647276229907083951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_163
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 831
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d261e5c85b2bb00800000000000000
+      internalID: 842935694750264594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_164
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 831
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d13815089d8cb0800000000000000
+      internalID: -4860061275214720935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_165
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 831
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024e7aa5cd02f900800000000000000
+      internalID: 716650433325449743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 831
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316dc272022ba340800000000000000
+      internalID: 4876028415470035248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 831
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcbd54c5a1d0c9f0800000000000000
+      internalID: -450129452842763010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_168
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 831
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c693e6d6ee93f40800000000000000
+      internalID: 5708856156436917281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_169
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 831
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2f0520c614b6e0800000000000000
+      internalID: -1822806934666924951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_170
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 831
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530c0d4159efbcb30800000000000000
+      internalID: 4308817384762818613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 831
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da931700e2fe77ee0800000000000000
+      internalID: -1263278189599180371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd0643d755f1ee0800000000000000
+      internalID: -1288216972166635652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 767
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1a7a662c237e20800000000000000
+      internalID: 3347067491573176895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 767
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af54bc6ea97ee020800000000000000
+      internalID: 2372967843725860775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9d4eedb5daf420800000000000000
+      internalID: 2664677141266669438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9c4a81b8f6ae10800000000000000
+      internalID: 2208726108684982820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad24349ec414090800000000000000
+      internalID: -8052070094022190416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_178
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 641
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c4032dd7d0f700800000000000000
+      internalID: 572194497451312795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_179
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1ed7c037ad3f70800000000000000
+      internalID: 9168668244349689083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_180
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a79c75eb86a65e0800000000000000
+      internalID: -1915603524766827903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_181
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee71794e9f42980800000000000000
+      internalID: -8564445831169053111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_182
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6bd29e5ce45bfa0800000000000000
+      internalID: -5785631534359922986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_183
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397e91b0babff0d0800000000000000
+      internalID: -3386783126702360271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_184
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3ed6761a73ff00800000000000000
+      internalID: 1149396566811753201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fa41d111d176d00800000000000000
+      internalID: 965772604433805144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_186
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 447
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee4bd000ee71290800000000000000
+      internalID: -7919599735710355754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_187
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 447
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac19d6f83382f30800000000000000
+      internalID: 4550944114569497281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_188
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 447
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ccaeb675109eaa0800000000000000
+      internalID: -6131367942703887285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_189
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 447
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3fa88c514a1a40800000000000000
+      internalID: 5339652173887126534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_190
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e8c94b8b0919d0800000000000000
+      internalID: -2803196600195159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_191
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 255
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d726bbc1dcd5a520800000000000000
+      internalID: 2712817144184580055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_192
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 255
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40f00163cc2d940800000000000000
+      internalID: 5319538642447697104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_193
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 256
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af2c5fcac75afef0800000000000000
+      internalID: -73649915324256348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_194
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 238
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5546d0fd851db1020800000000000000
+      internalID: 2313673013214405717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_195
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 241
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cafcca41a9589260800000000000000
+      internalID: 7104526961456511688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_196
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 62
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e38c23d5a92b50800000000000000
+      internalID: 6568963857900103456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_197
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 62
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdfa002beff9cf0800000000000000
+      internalID: -243195814385557648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_198
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 62
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6092c1ed3f5505210800000000000000
+      internalID: 1319649196711356678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_199
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 62
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be326af99024c9f70800000000000000
+      internalID: 9195297148284314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_200
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 62
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdc8dc99a0bf47e0800000000000000
+      internalID: -1779009085260640769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red(Lucifero)_201
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 62
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af80c6a835eca00800000000000000
+      internalID: 778651639564794390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
