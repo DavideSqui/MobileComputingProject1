@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: a41a54d13d572b64883a17945894082b
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Livello1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Livello2.unity
+    guid: adff80be414a78449b88fabd7b8b3c1f
+  - enabled: 1
+    path: Assets/Scenes/Livello3.unity
+    guid: 45f7a6e83ad2b464289ed8bc96095181
+  - enabled: 1
+    path: Assets/Scenes/InsertProfileName.unity
+    guid: c5ff8ffe4ae2efd478f4f23c2c01a0c1
   m_configObjects: {}

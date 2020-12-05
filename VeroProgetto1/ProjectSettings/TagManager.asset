@@ -7,6 +7,11 @@ TagManager:
   - background
   - Joystick
   - Button
+  - live
+  - Bullet
+  - Mappa
+  - Coin
+  - monster
   layers:
   - Default
   - TransparentFX
@@ -19,8 +24,8 @@ TagManager:
   - Mappa
   - Player
   - monster
-  - 
-  - 
+  - Bullet
+  - Coin
   - 
   - 
   - 

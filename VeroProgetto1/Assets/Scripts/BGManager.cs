@@ -6,12 +6,9 @@ public class BGManager : MonoBehaviour
 {
     //vettore di background
     public Transform[] bgs;
-
     //ultimo bg di lavoro prima di tornare
     Transform lastBg;
-
     float lastXBg = 0f;
-
     void FindLastPoolingCoordinate(Transform[] objects)
     {
         //array lungo indici dove vedo l'insieme dei background
@@ -32,9 +29,6 @@ public class BGManager : MonoBehaviour
         //dove piazzare primo background che va
         //addosso al box collider
     }
-
-  
-
     private void OnTriggerEnter(Collider col)
     {
         if (col.tag == "background")
@@ -48,8 +42,4 @@ public class BGManager : MonoBehaviour
         //ricrea background quando arrivo alla fine
     }
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

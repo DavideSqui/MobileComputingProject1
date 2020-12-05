@@ -8,20 +8,17 @@ public class CameraBehaviour : MonoBehaviour
     Transform player;
     //velocità di movimento
     Vector3 velocity=Vector3.zero;
-
     //offset posto z
     [SerializeField] float z_offset = -10f;
     //offset posto y
    [SerializeField] float y_offset = 3f;
     //con che velocità segue il player
     [SerializeField] float smooth = 0.3f;
-
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindWithTag("Player").transform; 
     }
-
     // Update is called once per frame
     void Update()
     {

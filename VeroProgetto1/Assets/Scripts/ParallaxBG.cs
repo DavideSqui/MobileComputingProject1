@@ -8,10 +8,8 @@ public class ParallaxBG : MonoBehaviour
     float lastCameraX;
     //asse x come si muove la camera
     float currentCameraX;
-
     //velocità di movimento
     [SerializeField] float parallaxSpeed=20f;
-
     //elemento su cui operiamo è la camera
     Transform cam;
     // Start is called before the first frame update
@@ -20,12 +18,10 @@ public class ParallaxBG : MonoBehaviour
     {
         //salvata transform della camera
         cam = Camera.main.transform;
-
         //dò la camera corrente iniziale con current e last uguali
         lastCameraX = cam.position.x;
         currentCameraX = lastCameraX;
     }
-
     // Update is called once per frame
     void Update()
     {
