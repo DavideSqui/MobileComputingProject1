@@ -33,7 +33,7 @@ public class PlayerMovement2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isJumping)
+       if (isJumping)
         {
             if (rigidbody2.velocity.y == 0)
             {
@@ -44,11 +44,12 @@ public class PlayerMovement2 : MonoBehaviour
         {
             if (fixedjoystick.Vertical * jumpForce > 0)
             {
-                rigidbody2.velocity = new Vector2(fixedjoystick.Horizontal * moveForce, fixedjoystick.Vertical * jumpForce);
-                isJumping = true;
+                //rigidbody2.velocity = new Vector2(fixedjoystick.Horizontal * moveForce, fixedjoystick.Vertical * jumpForce); 
+                //isJumping = true;
             }
         }
         rigidbody2.velocity = new Vector2(fixedjoystick.Horizontal * moveForce, rigidbody2.velocity.y);
+        
         //se mi sto spostando a sinistra o a destra
         if (rigidbody2.velocity.x < 0)
         {
@@ -103,5 +104,21 @@ public class PlayerMovement2 : MonoBehaviour
           }
 
       }*/
+      [SerializeField] public void PlayerJump()
+     {
+        if (isJumping)
+        {
+            if (rigidbody2.velocity.y == 0)
+            {
+                isJumping = false;
+            }
+        }
+        else
+        {
+                rigidbody2.velocity = new Vector2(fixedjoystick.Horizontal * moveForce, 1.3f * jumpForce);
+                isJumping = true;   
+        }
+        rigidbody2.velocity = new Vector2(fixedjoystick.Horizontal * moveForce, rigidbody2.velocity.y);
+    }
 
 }

@@ -85,6 +85,17 @@
     <Compile Include="Assets\MenuScript\MainMenu.cs" />
     <Compile Include="Assets\MenuScript\MenuCCameraMovement.cs" />
     <Compile Include="Assets\MenuScript\RetryMenu.cs" />
+    <Compile Include="Assets\MenuScript\Settings\SettingsMenu.cs" />
+    <Compile Include="Assets\Scenes\Database\DBManager.cs" />
+    <Compile Include="Assets\Scenes\Database\DatabaseMenu.cs" />
+    <Compile Include="Assets\Scenes\Database\GameScripting.cs" />
+    <Compile Include="Assets\Scenes\Database\Login.cs" />
+    <Compile Include="Assets\Scenes\Database\Registration.cs" />
+    <Compile Include="Assets\Scenes\Database\RestartGameOperation.cs" />
+    <Compile Include="Assets\Scenes\Database\SaveScoresandLevel1.cs" />
+    <Compile Include="Assets\Scenes\Database\SaveScoresandLevel2.cs" />
+    <Compile Include="Assets\Scenes\Database\SaveScoresandLevel3.cs" />
+    <Compile Include="Assets\Scenes\Database\WebTest.cs" />
     <Compile Include="Assets\Scripts\BGManager.cs" />
     <Compile Include="Assets\Scripts\CameraBehaviour.cs" />
     <Compile Include="Assets\Scripts\EnemyScripts\MonsterBehaviour.cs" />
@@ -135,11 +146,13 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Fonts\DiplomataOFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Scenes\Database\OFL 1.txt" />
     <None Include="Assets\TextMesh Pro\Fonts\OrbitronOFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Scenes\Database\OFL.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
